@@ -1,0 +1,18 @@
+h1{
+    color: aqua;
+    text-align: right;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1709697839156-a872b1e10435?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDExMHw0Y0ZpTjlwZmt4VXx8ZW58MHx8fHx8
+    );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header{
+    margin-top: 600px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
